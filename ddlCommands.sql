@@ -1,0 +1,1 @@
+SELECT * FROM highschool.avg_view;
